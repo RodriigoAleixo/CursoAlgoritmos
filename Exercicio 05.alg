@@ -5,5 +5,5 @@ inicio
 Escreva ("Informe um angulo: ")
 Leia (angulo)
 S <- Sen(GraupRad(angulo))
-Escreva ("O Seno de ", angulo, " é igual a ", S)
+Escreva ("O Seno de ", angulo, " Ã© igual a ", S)
 fimalgoritmo
