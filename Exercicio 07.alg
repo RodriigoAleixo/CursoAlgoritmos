@@ -17,7 +17,7 @@ ES <- (L1<>L2) e (L2<> L2) e (L1<>L3)
 TRI <- (L1 < L2+L3) e (L2 < L1+L3) e (L3 < L1+L2)
 
 
-Escreval ("O triangulo é EQUILATERO? ", EQ)
-Escreval ("O triangulo é ESCALENO? ", ES)
+Escreval ("O triangulo Ã© EQUILATERO? ", EQ)
+Escreval ("O triangulo Ã© ESCALENO? ", ES)
 Escreval ("Pode formar um triangulo? ", TRI)
 fimalgoritmo
