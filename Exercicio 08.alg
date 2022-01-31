@@ -4,10 +4,10 @@ var
    ano_atual, ano_nascimento, idade: Inteiro
 
 inicio
-      Escreval ("Em que anos nós estamos? ")
+      Escreval ("Em que anos nÃ³s estamos? ")
       Leia (ano_atual)
       Escreval ("Em que ano eu nasci? ")
       Leia (ano_nascimento)
       idade <- ano_atual-ano_nascimento
-      Escreval ("Minha idade é ", idade)
+      Escreval ("Minha idade Ã© ", idade)
 fimalgoritmo
