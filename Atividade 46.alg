@@ -6,10 +6,10 @@ var
 inicio
       C <- 6
       S <- 0
-      Enquanto (C <= 100) faca
+      Enquanto (C <101) faca
       Escreva (C, " + ")
-      C <- C + 2
       S <- S + C
+      C <- C + 2
       Fimenquanto
       Escreval (s)
 
